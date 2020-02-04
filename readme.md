@@ -1,50 +1,24 @@
-# 爱创课堂--27期第一组--QQ音乐
+# waimai
 
-​	介绍实现的功能
+## Project setup
+```
+yarn install
+```
 
-## 目录部署
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-| 目录名称 | 项目名称 | 开发周期 | 启动指令 |
-| -------- | -------- | -------- | -------- |
-|          |          |          |          |
-|          |          |          |          |
-|          |          |          |          |
+### Compiles and minifies for production
+```
+yarn build
+```
 
-## 启动项目
+### Lints and fixes files
+```
+yarn lint
+```
 
-如何启动，如何测试，如何发布等等
-
-## 项目成员
-
-​	介绍小组成员
-
-### 律野开发排期
-
-| 项目名称 | 模块名称                                   | 开发排期 | 自测排期 |
-| -------- | ------------------------------------------ | -------- | -------- |
-| pc端项目 |                                            |          |          |
-| 后台管理 |                                            |          |          |
-| 移动端   | 首页模块（header组件，轮播组件，list组件） | 5h       | 2h       |
-
-### 
-
-| 项目名称 | 模块名称 | 开发排期 | 自测排期 |
-| -------- | -------- | -------- | -------- |
-|          |          |          |          |
-
-## 效果图
-
-每位同学开发的效果图
-
-### 律野开发模块效果图
-
-![首页效果图](./img/01.png)
-
-
-
-
-
-
-
-
-
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
